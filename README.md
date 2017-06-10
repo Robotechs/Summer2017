@@ -6,5 +6,7 @@ Rules and Regulations
  - At least two people must check the code for functionality and logicality
    - One of the two (or more) must be the leader of that team
    - Secondary check from another team member can be from any team
- - In pull requests, it is first come first serve.
-   - 
+   - If pull request is rejected by a majority, the pull request will be rescinded as soon as possible
+   - If pull request is not passed within 1 week, it is considered null and void (so advocate your code!)
+ - If two or more people are working on the same code, it is first come first serve for pull requests.
+   - If two or more people are working on the same code at the same time, whoever submits a pull request first gets theirs passed first
